@@ -1,0 +1,27 @@
+body{
+    display: grid;
+    place-items: center;    
+    font-size: large;
+}
+form #inputs{
+    display: grid;
+    place-items: end;
+}
+form #add{
+    display: grid   ;
+    place-content: center;
+}
+form button{
+    margin-left: 45%;
+    padding-right: 63px;
+}
+#list{
+    padding-top: 10%;
+    align-items: flex-start;
+}
+button{
+    border-style: none;
+    font-size: large;
+}
+
+
